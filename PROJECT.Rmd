@@ -1,0 +1,41 @@
+
+
+```{r}
+d1 <- read.csv("~/Desktop/101B project/projectdata.csv")
+str(d1)
+
+# Part 1)
+# First try BF[1]
+m0 <- aov(time~factor(treatment),data=d1)
+summary(m0)
+
+# Check estimated effects for each level of treatment.
+
+model.tables(m0)
+# The estimated effects for Adrenaline is 2.8357.
+# The estimated effects for Energy Drinkis -2.4071.
+# The estimated effects for Methamphetamine is -0.4286.
+
+# sd of time
+with(d1,sd(time))
+
+# plot of gender
+with(d1,plot(time~factor(gender)))
+
+# Part 2) 
+# CB[1] model, blcoking on gender.
+m1 <- aov(time~factor(treatment)+factor(gender),data=d1)
+summary(m1)
+par(mfrow = c(2, 2))
+plot(m1)
+
+# Part 3)
+# Try BF[2] 
+m2 <- aov(time~factor(treatment)*factor(gender),data=d1)
+summary(m2)
+# interaction plot
+interaction.plot(factor(d1$treatment), factor(d1$gender), d1$time)
+```
+
+
+

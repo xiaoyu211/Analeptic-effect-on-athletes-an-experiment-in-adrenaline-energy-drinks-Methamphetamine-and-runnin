@@ -1,0 +1,73 @@
+subject,name,treatment2,treatment,time,gender
+1,Rebeka Novak,after,Adrenaline,22,f
+2,Chloe Castro,after,Adrenaline,20.1,f
+3,Nanami Lopez,after,Adrenaline,21.2,f
+4,Gal Hajek,after,Adrenaline,16.8,m
+5,Javier Durand,after,Adrenaline,24.2,m
+6,Maria Durand,after,Adrenaline,20.1,f
+7,Eva Durand,after,Adrenaline,19.2,f
+8,Cristian Rodriguez,after,Adrenaline,20,m
+9,Gabriel Bernard,after,Adrenaline,12.2,m
+10,Francisco Carrasco,after,Adrenaline,18.4,m
+11,Emily Fiala,after,Adrenaline,18.1,f
+12,Ryan Durand,after,Adrenaline,21.6,m
+13,Conor Bernard,after,Methamphetamine,25,m
+14,Kaito Durand,after,Methamphetamine,21.6,m
+15,Felipe Gonzalez,after,Methamphetamine,16,m
+16,Luis Durand,after,Methamphetamine,15.7,m
+17,Evan Lopez,after,Methamphetamine,20,m
+18,Ryan Durand,after,Methamphetamine,9.2,m
+19,Anna Bernard,after,Methamphetamine,13.5,f
+20,Nanami McCarthy,after,Methamphetamine,14.4,f
+21,Ellen Durand,after,Methamphetamine,10.2,f
+22,Sophie Kennedy,after,Methamphetamine,15.1,f
+23,Sophie Takahashi,after,Methamphetamine,23,f
+24,Mayu Carrasco,after,Methamphetamine,14.3,f
+25,Takumi Durand,after,Energy Drink,6.6,m
+26,Shin Rodriguez,after,Energy Drink,10.4,m
+27,Benjamin Durand,after,Energy Drink,7.9,m
+28,Bastian Gonzalez,after,Energy Drink,18.1,m
+29,Naoki Carrasco,after,Energy Drink,5.7,m
+30,Alexander Durand,after,Energy Drink,12.1,m
+31,Siobhan Kennedy,after,Energy Drink,19.3,f
+32,Monserrat Carrasco,after,Energy Drink,15.2,f
+33,Alejandra Durand,after,Energy Drink,22.6,f
+34,Ciara Durand,after,Energy Drink,12.6,f
+35,Antonia Durand,after,Energy Drink,10.3,f
+36,Pia Summers,after,Energy Drink,17.7,f
+37,Rebeka Novak,before,Adrenaline,25.1,f
+38,Chloe Castro,before,Adrenaline,22.5,f
+39,Nanami Lopez,before,Adrenaline,23.9,f
+40,Gal Hajek,before,Adrenaline,18.4,m
+41,Javier Durand,before,Adrenaline,25,m
+42,Maria Durand,before,Adrenaline,21.8,f
+43,Eva Durand,before,Adrenaline,20.8,f
+44,Cristian Rodriguez,before,Adrenaline,21.3,m
+45,Gabriel Bernard,before,Adrenaline,15,m
+46,Francisco Carrasco,before,Adrenaline,21.2,m
+47,Emily Fiala,before,Adrenaline,21.9,f
+48,Ryan Durand,before,Adrenaline,23.3,m
+49,Conor Bernard,before,Methamphetamine,25.4,m
+50,Kaito Durand,before,Methamphetamine,22.2,m
+51,Felipe Gonzalez,before,Methamphetamine,16.4,m
+52,Luis Durand,before,Methamphetamine,15.8,m
+53,Evan Lopez,before,Methamphetamine,19.3,m
+54,Ryan Durand,before,Methamphetamine,10.1,m
+55,Anna Bernard,before,Methamphetamine,15.8,f
+56,Nanami McCarthy,before,Methamphetamine,15.4,f
+57,Ellen Durand,before,Methamphetamine,11,f
+58,Sophie Kennedy,before,Methamphetamine,15.9,f
+59,Sophie Takahashi,before,Methamphetamine,23.3,f
+60,Mayu Carrasco,before,Methamphetamine,13.7,f
+61,Takumi Durand,before,Energy Drink,6.6,m
+62,Shin Rodriguez,before,Energy Drink,10.3,m
+63,Benjamin Durand,before,Energy Drink,8.9,m
+64,Bastian Gonzalez,before,Energy Drink,18.1,m
+65,Naoki Carrasco,before,Energy Drink,5.5,m
+66,Alexander Durand,before,Energy Drink,12.4,m
+67,Siobhan Kennedy,before,Energy Drink,21.4,f
+68,Monserrat Carrasco,before,Energy Drink,16.5,f
+69,Alejandra Durand,before,Energy Drink,24.2,f
+70,Ciara Durand,before,Energy Drink,12.5,f
+71,Antonia Durand,before,Energy Drink,10,f
+72,Pia Summers,before,Energy Drink,19.3,f
